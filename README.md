@@ -1,1 +1,1 @@
-# japanese_pub
+# 居酒屋のLP
